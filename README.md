@@ -55,6 +55,3 @@ void loop() {
     // Add custom logic based on the received finger status
   }
 }
-```
-
-Let me know if you need further modifications!
